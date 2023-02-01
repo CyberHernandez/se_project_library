@@ -168,7 +168,7 @@
   text-decoration: none;
 }
 
-.events_more:hover {
+.events__more:hover {
   color: #1f69c9;
 }
 
@@ -261,7 +261,7 @@
   margin: 24px 0 0;
   color: #fff;
 }
-.staff__card-list {
+.staff__cards {
   max-width: 760px;
   margin: 68px auto;
   display: flex;
